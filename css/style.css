@@ -2,7 +2,11 @@
 * Created on: Feb 2024
 * This file contains the CSS for index.html
 
-,concent
+body {
+  background-color: #404E6D;
+}
+
+.content {
   background-color: #f4f4f4;
   color: #404E6D;
   font-family: "Lato", sans-serif;

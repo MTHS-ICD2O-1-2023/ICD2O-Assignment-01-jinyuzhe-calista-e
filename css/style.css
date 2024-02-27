@@ -1,4 +1,4 @@
-/* Created by: Calista.E
+* Created by: Calista.E
 * Created on: Feb 2024
 * This file contains the CSS for index.html
 
@@ -7,12 +7,12 @@ body {
 }
 
 .content {
-  background-color: #f4f4f4;
-  color: #404E6D;
+  background-color: #ede7ed;
+  color: #3c3e3e;
   font-family: "Lato", sans-serif;
   max-width: 1080px;
   margin: 0 auto;
-  border: 3px solid #D1A83B;
+  border: 3px solid #af551a;
 }
 
 h1,
@@ -42,7 +42,7 @@ li {
   display: block;
   margin: 0 auto;
   border-radius: 50%;
-  border: 2px solid #404E6D;
+  border: 2px solid #232c3e;
 }
 
 blockquote {
